@@ -1,0 +1,87 @@
+LIBRARY SYSTEM MAIN MENU
+-------------------------------------
+1. Add new book
+2. Add new student
+3. Print book list
+4. Print student list
+5. Find student by ID
+6. Find student by name
+7. Find book by ID
+8. Find book by name
+9. Quit
+  SELECT:1
+Enter Book ID:897323
+Enter Title:point dangling
+Enter Author:are dangerous
+Enter Quantity:5
+Information has been saved to Book.dat
+ 
+LIBRARY SYSTEM MAIN MENU
+-------------------------------------
+1. Add new book
+2. Add new student
+3. Print book list
+4. Print student list
+5. Find student by ID
+6. Find student by name
+7. Find book by ID
+8. Find book by name
+9. Quit
+  SELECT:1
+Enter Book ID:432112
+Enter Title:updating memory
+Enter Author:location os
+Enter Quantity:5
+Information has been saved to Book.dat
+ 
+LIBRARY SYSTEM MAIN MENU
+-------------------------------------
+1. Add new book
+2. Add new student
+3. Print book list
+4. Print student list
+5. Find student by ID
+6. Find student by name
+7. Find book by ID
+8. Find book by name
+9. Quit
+  SELECT:2
+Enter Student ID:234554
+Enter Student name:hi kdasd
+Enter Student email:jled@.com
+Information has been saved to Student.dat
+ 
+LIBRARY SYSTEM MAIN MENU
+-------------------------------------
+1. Add new book
+2. Add new student
+3. Print book list
+4. Print student list
+5. Find student by ID
+6. Find student by name
+7. Find book by ID
+8. Find book by name
+9. Quit
+  SELECT:2
+Enter Student ID:9788943433
+Enter Student name:kleds jkle
+Enter Student email:lje@.com
+Information has been saved to Student.dat
+ 
+LIBRARY SYSTEM MAIN MENU
+-------------------------------------
+1. Add new book
+2. Add new student
+3. Print book list
+4. Print student list
+5. Find student by ID
+6. Find student by name
+7. Find book by ID
+8. Find book by name
+9. Quit
+  SELECT:9
+Exiting Program
+
+RUN SUCCESSFUL (total time: 1m 29s)
+
+
